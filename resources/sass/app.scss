@@ -1,0 +1,22 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+@import "~vue-material/dist/vue-material.min.css";
+@import "~vue-material/dist/theme/engine"; // Import the theme engine
+@include md-register-theme("default", (
+        accent: rgba(68, 138, 255, 0.76) // The secondary color of your brand
+));
+@import "~vue-material/dist/theme/all"; // Apply the theme
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import "~mdbootstrap/css/mdb.lite.css";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
