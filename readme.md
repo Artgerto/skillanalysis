@@ -43,3 +43,7 @@ php artisan serve
 - [VueMaterial](https://vuematerial.io "VueMaterial")
 - [SuperJob API Client](https://github.com/superjobru/superjob-api-client "SuperJob API Client")
 - [mdbootstrap](https://mdbootstrap.com/ "mdbootstrap") (free version)
+------------
+Проект создан в рамках Хакатона HR 2019
+(28 февраля - 1 марта 2019) - 
+Санкт-Петербургский международный форум труда
