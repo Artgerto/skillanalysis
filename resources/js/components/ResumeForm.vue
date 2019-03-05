@@ -132,7 +132,7 @@
         props:['resumes'],
         data() {
             return{
-                critery: true,
+                critery: "true",
                 experience: null,
                 resultPost: false,
                 alertMessage: null,
